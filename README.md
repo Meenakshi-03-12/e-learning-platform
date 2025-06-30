@@ -1,3 +1,19 @@
+     E-LEARNING PLATFORM UI
+
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: MEENAKSHI M
+
+INTERN ID:CT04DF2545
+
+DOMAIN: FRONTEND DEVELOPMENT
+
+DURATION: 4 WEEEKS
+
+MENTOR: NEELA SANTOSH
+
+    TASK IMPLEMENTATION DETAILS
+    
 📘 E-Learning Platform – Frontend UI
 
 This project is a simple frontend design for an e-learning platform built using HTML and CSS. It includes the following key pages:
@@ -17,3 +33,7 @@ This project is a simple frontend design for an e-learning platform built using 
 *style.css – Handles all styling for a clean and responsive layout
 
 🧠 Users can browse courses, track progress, and access learning videos – all within a sleek interface.
+
+         OUTPUT:
+
+  ![Image](https://github.com/user-attachments/assets/2b1eda57-a96d-42a9-b637-c15efd6ed7ed)
